@@ -40,7 +40,7 @@ To run the Travel Tracker website locally, follow these steps:
 4. **Set up the PostgreSQL database:**
 
 - Ensure PostgreSQL is installed and running on your machine.
-- Create a new database named travel_tracker.
+- Create a new database named world.
 - Create a table named visited_countries with the following schema:
 
    ```bash
